@@ -1,15 +1,6 @@
 {
-  "key": 4,
-  "updateAuthority": "YbKqwmainCnMRN8NVZj3arKZbtumzTirD4jLMYuPrfD",
-  "mint": "7XSvJnS19TodrQJSbjUR6tEGwmYyL1i9FX7Z5ZQHc53W",
-  "data": {
-    "name": "VyperProtocol devUSD",
-    "symbol": "devUSD",
-    "uri": "https://raw.githubusercontent.com/vyper-protocol/branding/main/devUSD/devUSD_logo.png",
-    "sellerFeeBasisPoints": 0
-  },
-  "primarySaleHappened": 0,
-  "isMutable": 1,
-  "editionNonce": 255,
-  "tokenStandard": 2
+  "name": "VyperProtocol devUSD",
+  "symbol": "devUSD",
+  "description": "VyperProtocol devUSD token",
+  "uri": "https://raw.githubusercontent.com/vyper-protocol/branding/main/devUSD/devUSD_logo.png"
 }
